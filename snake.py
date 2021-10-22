@@ -144,5 +144,4 @@ def game():
         clock.tick(snake_speed)
     pygame.quit()
     quit()
-    
 game()
